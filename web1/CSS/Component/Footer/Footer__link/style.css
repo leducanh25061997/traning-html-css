@@ -1,0 +1,21 @@
+.footer__link{
+	margin: 13px 130px 13px 130px;
+}
+.footer__link .container{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+.footer__link .footer__link-text p{
+	font-size: 14px;
+	line-height: 22px;
+	color: rgba(43, 41, 45, 0.6);
+	font-family:'work sans light';
+	padding-right: 25px;
+}
+.footer__link .footer__link-text p:nth-child(3){
+	padding-right: 0px;
+}
+.footer__link .footer__link-icon img{
+	padding-left: 25px;
+}

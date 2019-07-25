@@ -1,0 +1,42 @@
+.introduce{
+	width: 1073px;
+	text-align: center;
+	padding-top: 62px;
+	margin: 0 auto;
+}
+.introduce .container{
+	display: flex;
+	justify-content: center;
+}
+.container .introduce1{
+	width: 343px;
+	height: 415px;
+	margin-left: 73px;
+}
+.container .introduce1:nth-child(1){
+	margin-left: 0px;
+}
+.container .introduce1:hover{
+	box-shadow: 0px 11px 55px rgba(0, 0, 0, 0.07), 0px 13px 18px rgba(0, 0, 0, 0.15);
+	border-radius: 8px;
+	cursor: pointer;
+}
+.container .introduce1 img{
+	padding-top: 40px;
+}
+.container .introduce1 p{
+	color: #2B292D;
+	font-size: 24px;
+	height: 90px;
+	line-height: 30px;
+	font-family:'work sans light';
+	padding:36px 25px 33px 25px;
+}
+.container .introduce1 a{
+	text-decoration: none;
+	font-size: 18px;
+	line-height: 26px;
+	text-align: center;
+	color: #3041C4;
+	font-family:'work sans extra bold';
+}

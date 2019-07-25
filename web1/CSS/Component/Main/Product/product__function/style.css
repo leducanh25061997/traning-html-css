@@ -1,0 +1,31 @@
+.product__function{
+	
+}
+.product__function .container{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+.product__function .product__function-item{
+	width: 360px;
+	margin-left: 30px;
+}
+.product__function .product__function-item:nth-child(1){
+	margin-left: 0px;
+}
+.product__function .product__function-item p{
+	font-size: 18px;
+	line-height: 26px;
+	color: #2B292D;
+	font-family:'work sans light';
+}
+.product__function .product__function-item b{
+	font-family:'work sans bold';
+}
+.product__function .product__function-item a{
+	text-decoration: none;
+	font-family:'work sans bold';
+	color: #3142C6;
+	font-size: 18px;
+	line-height: 26px;
+}

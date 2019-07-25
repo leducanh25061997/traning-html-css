@@ -1,0 +1,8 @@
+.banner__image{
+	position: absolute;
+	top: 201px;
+	right: 49px;
+	width: 796px;
+	height: 448px;
+	z-index: 0;
+}

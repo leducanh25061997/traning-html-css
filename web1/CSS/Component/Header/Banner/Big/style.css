@@ -1,0 +1,14 @@
+.banner__big{
+	position: absolute;
+	top: 177px;
+	left: 126px;
+	width: 754px;
+	z-index: 1;
+}
+.banner__big p{
+	font-family:'work sans extra bold';
+	color: #2B292D;
+	font-size: 80px;
+	line-height: 78px;
+	letter-spacing: -0.5px	;
+}

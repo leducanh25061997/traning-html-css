@@ -1,0 +1,39 @@
+@font-face {
+	font-family:'work sans bold';
+	src: url('WorkSans-Bold.otf');
+}
+@font-face {
+	font-family:'work sans black';
+	src: url('WorkSans-Black.otf');
+}
+@font-face {
+	font-family:'work sans extra bold';
+	src: url('WorkSans-ExtraBold.otf');
+}
+@font-face {
+	font-family:'work sans extra light';
+	src: url('WorkSans-ExtraLight.otf');
+}
+@font-face {
+	font-family:'work sans light';
+	src: url('WorkSans-Light.otf');
+}
+@font-face {
+	font-family:'work sans hair line';
+	src: url('WorkSans-HairLight.otf');
+}
+@font-face {
+	font-family:'work sans medium';
+	src: url('WorkSans-Medium.otf');
+}
+@font-face {
+	font-family:'work sans regular';
+	src: url('WorkSans-Regular.otf');
+}@font-face {
+	font-family:'work sans semi bold';
+	src: url('WorkSans-SemiBold.otf');
+}
+@font-face {
+	font-family:'work sans thin';
+	src: url('WorkSans-thin.otf');
+}

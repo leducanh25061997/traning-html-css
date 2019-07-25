@@ -1,0 +1,16 @@
+.menu__text{
+	position: absolute;
+	top: 45px;
+	left: 205px;
+	font-size: 20px;
+	line-height: 25px;
+}
+.menu__text h1{
+	font-family:'work sans extra bold';
+	font-weight: 800;
+}
+.menu__text p{
+	font-family:'work sans light';
+	color: rgba(43, 41, 45, 0.6);
+}
+

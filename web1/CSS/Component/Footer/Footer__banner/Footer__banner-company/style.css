@@ -1,0 +1,17 @@
+.footer__banner-company{
+	margin: 17px 0 0 82px;
+} 
+.footer__banner-company h1{
+	font-family:'work sans bold';
+	padding-bottom: 18px;
+	font-size: 22px;
+	line-height: 28px;
+	color: #2B292D;
+} 
+.footer__banner-company a{
+	font-family:'work sans light';
+	font-size: 18px;
+	line-height: 33px;
+	color: rgba(43, 41, 45, 0.6);
+	text-decoration: none;
+} 

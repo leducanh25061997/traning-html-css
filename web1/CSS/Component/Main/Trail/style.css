@@ -1,0 +1,63 @@
+.trail{
+	background: #F4F5F7;
+}
+.trail .container{
+	display: flex;
+	flex-direction: row;
+}
+.trail .trail__img{
+	margin: 73px 0 72px 224px;
+}
+.trail .trail__text{
+	width: 555px;
+	margin: 73px 0 0 123.6px;
+}
+.trail .trail__text h1{
+	font-size: 40px;
+	line-height: 40px;
+	letter-spacing: -0.25px;
+	font-family:'work sans bold';
+	color: #2B292D;
+}
+.trail .trail__text #p1{
+	font-size: 22px;
+	line-height: 32px;
+	font-family:'work sans light';
+	color: #2B292D;
+	padding: 12px 0 26px 0;
+}
+.trail .trail__text input{
+	width: 355px;
+	height: 44px;
+	font-size: 18px;
+	line-height: 13px;
+	color: #2B292D;
+	font-family:'work sans light';
+	padding-left: 15px;
+	margin-right: 10px;
+}
+.trail .trail__text button{
+	width: 160px;
+	height: 48px;
+	border: 0px;
+	background:#3040C4;
+}
+.trail .trail__text button p{
+	color: #FFFFFF;
+	font-size: 18px;
+	font-family:'work sans extra bold';
+	text-decoration: none;
+	line-height: 13px;
+}
+.trail .trail__text #p2{
+	font-size: 14px;
+	line-height: 22px;
+	font-family:'work sans light';
+	color: rgba(43, 41, 45, 0.6);
+	padding-top: 10px;
+}
+.trail .trail__text #p2 a{
+	color: #3142C6;
+	text-decoration: none;
+	font-weight: bold;
+}

@@ -1,0 +1,24 @@
+.banner__button{
+	text-align: center;
+	position: absolute;
+	top: 553px;
+	left: 130px;
+}
+.banner__button button{
+	width: 160px;
+	height: 48px;
+	background:#3040C4;
+	border: 0px;
+	border-radius: 2px;
+	box-shadow:inset 0px 1px 0px rgba(255, 255, 255, 0.1);
+}
+.banner__button p{
+	color: #FFFFFF;
+	font-size: 18px;
+	font-family:'work sans extra bold';
+	text-decoration: none;
+	line-height: 13px;
+}
+.banner__button button:nth-child(1){
+	margin-right: 5px;
+}

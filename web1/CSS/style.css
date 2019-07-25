@@ -1,0 +1,20 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+body{
+	width: 1400px;
+	position: relative;
+}
+header{
+	height: 710px;
+	background: #F9D9EB;
+}
+main{
+	height: auto;
+	background: rgb(254, 254, 254);
+}
+footer{
+	background: #FFFFFF;
+	height: 389px;
+}

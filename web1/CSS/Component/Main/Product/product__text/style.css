@@ -1,0 +1,10 @@
+.product__text{
+	margin-top: 96px;
+}
+.product__text h1{
+	font-size: 24px;
+	line-height: 30px;
+	text-align: center;
+	font-family:'work sans bold';
+	color: #2B292D;
+}

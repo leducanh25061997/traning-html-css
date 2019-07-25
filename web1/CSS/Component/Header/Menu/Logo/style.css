@@ -1,0 +1,12 @@
+.menu__logo{
+	position: absolute;
+	top: 41px;
+	left: 131px;
+	width: 60px;
+	height: 60px;
+	background-color: #FFFFFF;
+	border-radius: 14px;
+}
+.menu__logo img{
+	padding: 10px 13px 0px 14px;
+}

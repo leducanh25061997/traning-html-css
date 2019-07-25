@@ -1,0 +1,24 @@
+.menu__link{
+	position: absolute;
+	top: 46px;
+	right: 365px;
+	width: 273px;
+	height: 25px;
+}
+.menu__link a{
+	padding-left: 40px;
+	text-decoration: none;
+	
+	color: #2B292D;
+	font-size: 18px;
+	line-height: 25px;
+	font-family:'work sans light';
+	font-weight: 100;
+}
+.menu__link a:hover{
+	font-family:'work sans extra bold';
+	
+}
+.menu__link a:nth-child(1){
+	padding-left: 0px;
+}
